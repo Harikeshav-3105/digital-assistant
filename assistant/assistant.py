@@ -3,11 +3,9 @@ import os
 import json
 import requests     
 import sys
-import requests
 import webbrowser
 import wikipedia
 import random
-import requests
 import speech_recognition as sr
 from gtts import gTTS
 
