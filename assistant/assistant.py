@@ -12,18 +12,13 @@ import webbrowser
 import wikipedia
 from weather import Weather, Unit
 import wikipedia
-from nltk.chat import eliza, iesha, rude, suntsu, util
 import random
-from nltk.chat.util import Chat, reflections
 import requests
 import speech_recognition as sr
 from gtts import gTTS
 
 app_id = "YERQA8-KG2P6T357L"
 client = wolframalpha.Client(app_id)
-chats = [eliza, iesha ,rude, suntsu]
-opt = random.choice(chats)
-
 inst = None
 
 def init():
