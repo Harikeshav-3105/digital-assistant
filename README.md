@@ -11,3 +11,5 @@ This project is actively maintained, and such features will be available in the 
 About the developer:
 
 Harikeshav R, A citizen of India, is  12 year old developer who started programming when he was 10.
+
+To make changes, submit a pull request! Help me to make this chatbot to actively listen to the hotword "henry", as I am not able to find a solution
