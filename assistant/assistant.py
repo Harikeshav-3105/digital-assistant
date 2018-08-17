@@ -3,9 +3,6 @@ import os
 import json
 import requests     
 import sys
-from weather import Weather
-from weather import Unit
-import geocoder
 import requests
 import webbrowser
 import wikipedia
