@@ -1,0 +1,7 @@
+wolframalpha
+json
+requests
+webbrowser
+wikipedia
+speechrecognition
+gtts
