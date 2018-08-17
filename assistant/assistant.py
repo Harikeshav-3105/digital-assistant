@@ -1,7 +1,6 @@
 import wolframalpha
 import os
 import json
-from pygame import mixer
 import requests     
 import sys
 from weather import Weather
@@ -9,8 +8,6 @@ from weather import Unit
 import geocoder
 import requests
 import webbrowser
-import wikipedia
-from weather import Weather, Unit
 import wikipedia
 import random
 import requests
