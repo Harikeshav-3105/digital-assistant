@@ -11,7 +11,9 @@ This project is actively maintained, and such features will be available in the 
 To run,
 
 git clone https://github.com/Harikeshav-3105/digital-assistant
+
 cd digital-assistant/assistant
+
 python3 main.py
 
 About the developer:
