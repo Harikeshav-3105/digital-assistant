@@ -14,6 +14,8 @@ git clone https://github.com/Harikeshav-3105/digital-assistant
 
 cd digital-assistant/assistant
 
+pip install -r requirements.txt
+
 python3 main.py
 
 About the developer:
